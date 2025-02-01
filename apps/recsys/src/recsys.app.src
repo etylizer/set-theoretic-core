@@ -1,0 +1,8 @@
+{application, recsys,
+ [{description, "Inductive unary predicate for recursive formulae"},
+  {vsn, "1.0.0"},
+  {applications,
+   [kernel,
+    stdlib
+   ]}
+ ]}.
